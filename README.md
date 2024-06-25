@@ -9,10 +9,10 @@ The repository contains the values of several physical constants and references 
 |Mass of proton| 1.67262192369 x 10<sup>-27</sup> kg </br> 1.00727646621 amu |https://physics.nist.gov/cgi-bin/cuu/Value?mp </br>https://physics.nist.gov/cgi-bin/cuu/Value?mpu</br> mass in gram/mol=(mass in gram)x(Avogadro number)|
 |Avogadro constant |6.02214076 x 10<sup>23</sup> mol<sup>-1</sup>|https://physics.nist.gov/cgi-bin/cuu/Value?na|
 |Atomic mass of <sup>1</sup>H |1.00782503223 amu |https://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl?ele=D&all=all&ascii=html&isotype=some  |
-|Nuclear mass of <sup>1</sup>H|1.00727645232 amu |Calculated: (atomic mass of <sup>1</sup>H - m<sub>e<sup>-</sup></sub>)|
+|Nuclear mass of <sup>1</sup>H|1.00727645232 amu |Calculated: (atomic mass of <sup>1</sup>H - <em>m</em><sub>e<sup>-</sup></sub>)|
 
-<b> Note: </b> Atomic mass is different than the nuclear mass and when the properties such as nuclear dynamics are studied, nuclear mass is only taken in consideration.
-It can be calculated by substracting total mass of the electrons from the atomic mass.
+<b>Note:</b> 
+Atomic mass differs from nuclear mass. It can be calculated by subtracting the total mass of the electrons from the atomic mass. Nuclear mass is considered when properties such as nuclear dynamics are studied.
 
 ## Conversion factors
 
