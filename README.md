@@ -1,5 +1,5 @@
 # constants-and-references
-The repository contains the values of random constants and references of the so-called standard sources.
+The repository contains the values of several physical constants and references of the standard sources. 
 
 
 
